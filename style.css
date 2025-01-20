@@ -467,14 +467,14 @@ footer .text span a:hover {
         width: 90%;
         margin: 40px 0;
     }
-    .certificate .boxes .box {
+    .gallery .boxes .box {
         margin: 20px 0;
         width: calc(100% / 2 -20px);
     }
 }
 
 @media (max-width: 900px) {
-    .about .lefy img {
+    .about .left img {
         height: 350px;
         width: 350px;
     }
@@ -494,11 +494,6 @@ footer .text span a:hover {
     }
     .nav-container .links {
         display: none;
-    }
-    .hamburg,
-    .cancel {
-        opacity: 1;
-        pointer-events: visible;
     }
     .main-container .content {
         margin-top: 20px;
